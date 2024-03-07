@@ -1,4 +1,4 @@
-This is Parallax Scrolling Website Using HTML CSS and JS 
+This is Parallax Scrolling Website Using HTML CSS and JS When You have Scroll This Website So Some Trees and Text Is Move bottom Side And Trees Will Move Left And right Side : )
 
 # Images 
 
